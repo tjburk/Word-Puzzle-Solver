@@ -86,6 +86,13 @@ void hashTable::rehash(){
   }
 }
 
+/**********************************************
+ * Title: primenumber
+ * Author: Aaron Bloomfield
+ * Date: 10/16/22 Date Written: 2014
+ * Availability: https://github.com/aaronbloomfield/pdr repository
+ **********************************************/
+
 bool checkprime(unsigned int p) {
     if ( p <= 1 ) // 0 and 1 are not primes; the are both special cases
         return false;
