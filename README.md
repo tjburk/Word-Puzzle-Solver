@@ -9,9 +9,9 @@ The program uses a custom hash table to optimize the amount of time it takes to 
 
 # How to Run #
 ### Windows ###
-__1.__ Make sure you have a C++ compiler installed (I use MinGW)
-__2.__ Clone the repository
-__3.__ Open the project in your IDE (I use VSCode)
+__1.__ Make sure you have a C++ compiler installed (I use MinGW) </br>
+__2.__ Clone the repository </br>
+__3.__ Open the project in your IDE (I use VSCode) </br>
 __4.__ CD into the directory of the project. For example:
 ```
 cd Downloads
@@ -27,8 +27,8 @@ __6.__ Execute the file with your dictionary and grid of choice
 __7.__ Feel free to use any dictionary/grid you would like!
 
 ### Linux ###
-__1.__ Clone the repository
-__2.__ Open the project in your IDE
+__1.__ Clone the repository </br>
+__2.__ Open the project in your IDE </br>
 __3.__ CD into the directory of the project. For example:
 ```
 cd Downloads
