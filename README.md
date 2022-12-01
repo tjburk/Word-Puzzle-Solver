@@ -13,3 +13,6 @@ __1.__ Make sure you have a C++ compiler installed (I use MinGW)
 __2.__ Clone the repository
 __3.__ Open the project in your IDE (I use VSCode)
 __4.__ CD into the directory of the project 
+```
+cd Downloads    // or wherever it is located
+```
